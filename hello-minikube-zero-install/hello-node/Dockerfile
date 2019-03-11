@@ -1,2 +1,0 @@
-FROM gcr.io/hello-minikube-zero-install/hello-node:latest
-MAINTAINER AshleyWan
